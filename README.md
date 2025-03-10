@@ -1,2 +1,2 @@
 # Myntra_clone 
-year :-) 2024 <br/>git
+year :-) 2024 <br/>
